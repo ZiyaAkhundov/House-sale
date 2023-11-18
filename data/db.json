@@ -1,0 +1,161 @@
+{
+    "house":[
+        {
+            "id":1,
+            "imageURL":"http://housy.az/images/medium_quality/10e9e94309c142e48b90cd6a6166cf68",
+            "floor": 4,
+            "total_floors": 16,
+            "area":100,
+            "rooms":2,
+            "price":200000,
+            "address": "Akademik Həsən Əliyev Küçəsi, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 2,
+                "name": "Gənclik",
+                "distance_minute": 10
+            },
+            "createdAt":"7 saat əvvəl"
+        },
+        {
+            "id":2,
+            "imageURL":"http://housy.az/images/medium_quality/fee6f366211d4d5bbf963d2243b400dc",
+            "floor": 1,
+            "total_floors": 16,
+            "area":150,
+            "rooms":3,
+            "price":220000,
+            "address": "5 saylı xəstəxana, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 22,
+                "name": "Inşaatçılar",
+                "distance_minute": 9
+            },
+            "createdAt":"2 saat əvvəl"
+        },
+        {
+            "id":3,
+            "imageURL":"http://housy.az/images/high_quality/be403485964d4c9ebbe9c36acff9335c",
+            "floor": 5,
+            "total_floors": 12,
+            "area":90,
+            "rooms":2,
+            "price":140000,
+            "address": "Təhsil Nazirliyi, Khatai Avenue, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 2,
+                "name": "Gənclik",
+                "distance_minute": 13
+            },
+            "createdAt":"10 gün əvvəl"
+        },
+        {
+            "id":4,
+            "imageURL":"http://housy.az/images/high_quality/4e57af5a99b74c37baed6bf92a43165a",
+            "floor": 3,
+            "total_floors": 18,
+            "area":210,
+            "rooms":5,
+            "price":350000,
+            "address": "1 Saylı ASAN Xidmət Mərkəzi, Academician Hasan Aliyev Street, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 23,
+                "name": "8 noyabr",
+                "distance_minute": 10
+            },
+            "createdAt":"4 gün əvvəl"
+        },
+        {
+            "id":5,
+            "imageURL":"http://housy.az/images/high_quality/01141d2b79ef4a9f8f726e00bcf05405",
+            "floor": 5,
+            "total_floors": 16,
+            "area":150,
+            "rooms":3,
+            "price":190000,
+            "address": "Tibb universitetinin cərrahiyyə klinikası, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 12,
+                "name": "Nizami Gəncəvi",
+                "distance_minute": 5
+            },
+            "createdAt":"24 saat əvvəl"
+        },
+        {
+            "id":6,
+            "imageURL":"http://housy.az/images/high_quality/b5bb8015f808461495d4d8ffc29a9b97",
+            "floor": 4,
+            "total_floors": 16,
+            "area":100,
+            "rooms":2,
+            "price":570000,
+            "address": "Yeni Hayat Residence, Yahya Bakuvi Street, Baku, Azerbaijan",
+            "subway_station": null,
+            "createdAt":"18 saat əvvəl"
+        },
+        {
+            "id":7,
+            "imageURL":"http://housy.az/images/high_quality/3e6f8503285b4923902b670086536ce7",
+            "floor": 8,
+            "total_floors": 9,
+            "area":170,
+            "rooms":4,
+            "price":211000,
+            "address": "Elmlər Akademiyası Metro Stansiyası, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 13,
+                "name": "Elmlər Akademiyası",
+                "distance_minute": 15
+            },
+            "createdAt":"1 gün əvvəl"
+        },
+        {
+            "id":8,
+            "imageURL":"http://housy.az/images/high_quality/7325339f0f934355a079fada979a84a9",
+            "floor": 17,
+            "total_floors": 20,
+            "area":190,
+            "rooms":6,
+            "price":560000,
+            "address": "Xətai, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 11,
+                "name": "Həzi Aslanov",
+                "distance_minute": 5
+            },
+            "createdAt":"8 saat əvvəl"
+        },
+        {
+            "id":9,
+            "imageURL":"http://housy.az/images/high_quality/797a91d5fb1d4eeeb567baabd3470d1d",
+            "floor": 9,
+            "total_floors": 14,
+            "area":40,
+            "rooms":1,
+            "price":130000,
+            "address": "Xətai metro stansiyasına keçid, Yusif Səfərov küçəsi, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 21,
+                "name": "Şah İsmail Xətai",
+                "distance_minute": 2
+            }
+            ,
+            "createdAt":"1 saat əvvəl"
+        },
+        {
+            "id":10,
+            "imageURL":"http://housy.az/images/high_quality/30caf4c107544e268342171bc2d721bc",
+            "floor": 6,
+            "total_floors": 16,
+            "area":200,
+            "rooms":7,
+            "price":701000,
+            "address": "Yasamal, Baku, Azerbaijan",
+            "subway_station": {
+                "id": 13,
+                "name": "Elmlər Akademiyası",
+                "distance_minute": 5
+            },
+            "createdAt":"11 saat əvvəl"
+        }
+    ]
+}
