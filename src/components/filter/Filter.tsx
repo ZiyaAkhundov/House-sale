@@ -79,7 +79,7 @@ const Filter: React.FC<FilterProps> = (props) => {
                     <h2 className="text-center text-[20px] font-semibold my-1 text-black">Axtarış</h2>
                     <div className="grid grid-cols-2 gap-3 mb-2 items-center">
                         <div className="col-span-2 md:col-span-1">
-                            <FormControl sx={{ m: 1}} size="small" className="w-full">
+                            <FormControl size="small" className="w-full">
                                 <InputLabel id="demo-multiple-checkbox-label" className="input-label-room">Otaq</InputLabel>
                                 <Select
                                 
